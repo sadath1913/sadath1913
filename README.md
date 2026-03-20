@@ -1,6 +1,6 @@
 <!-- HEADER SECTION --> 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I'm+Sadath+Khan%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I'm+Sadath+Khan%F0%9F%91%8B;Full-Stack+Developer;AI+%26+ML+Enthusiast;Cybersecurity+Explorer" />
 </div>
 
 <!-- CONTRIBUTION ANIMATION -->
