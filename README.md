@@ -4,8 +4,10 @@
 </div>
 
 <!-- CONTRIBUTION ANIMATION -->
+<!-- CYBERSECURITY ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="80%"/>
+  <p><i>Cybersecurity Mode Activated 🛡️</i></p>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
