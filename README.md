@@ -2,10 +2,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Sadath+Khan%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
 </div>
-<!-- MATRIX ANIMATION -->
+
+<!-- TERMINAL GAME STYLE -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80%"/>
-  <p><i>Entering the Matrix 💻</i></p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%"/>
+  <p><i>Debugging life like code 🧑‍💻</i></p>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
