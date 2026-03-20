@@ -3,10 +3,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Sadath+Khan%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
 </div>
 
-<!-- TERMINAL GAME STYLE -->
+<!-- PACMAN GAME -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%"/>
-  <p><i>Debugging life like code 🧑‍💻</i></p>
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
+</div>
+
+<!-- CYBER ANIMATION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="75%"/>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
