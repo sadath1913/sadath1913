@@ -16,7 +16,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="https:www.sadathkhan.online">
+  <a href="https://www.sadathkhan.online">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sadath-khan-535b56293?utm_source=share_via&utm_content=profile&utm_medium=member_android">
